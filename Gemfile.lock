@@ -1,7 +1,6 @@
 GIT
-  remote: git://github.com/josevalim/inherited_resources.git
-  revision: ff1c991307ff78cce98882b6986aeabbbcfd70c4
-  branch: rails-4-2
+  remote: git:https//github.com/activeadmin/inherited_resources.git
+  branch: master
   specs:
     inherited_resources (1.5.1)
       actionpack (>= 3.2, < 5)
