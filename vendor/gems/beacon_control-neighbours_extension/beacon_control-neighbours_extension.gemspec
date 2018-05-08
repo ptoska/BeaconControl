@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Awesome zone neighbours builder}
   spec.description   = %q{Full featured, awesome zone neighbours builder}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/ptoska/BeaconControl"
   spec.license       = "BSD"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
